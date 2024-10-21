@@ -23,6 +23,7 @@ We let subclasses decide which class to instantiate by overriding the factory me
 - Doctrine: `Doctrine\DBAL\DriverManager` class uses the Factory Method pattern to create database connections.
 
 
+![FactoryMethod](resources/uml.png)
 
 # Differences between Simple Factory and Factory Method
 

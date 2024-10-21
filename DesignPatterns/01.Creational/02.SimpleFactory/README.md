@@ -31,6 +31,9 @@ Simple Factory is used when a class can't anticipate the class of objects it mus
 4. Use the factory class to create the objects.
 5. Use the objects.
 
+
+![SimpleFactory](resources/uml.png)
+
 # Differences between Simple Factory and Factory Method
 
 

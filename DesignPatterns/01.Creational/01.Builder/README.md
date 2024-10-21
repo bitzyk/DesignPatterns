@@ -21,6 +21,9 @@ the client code & abstract it in separate classes.
 - In Laravel, the Query Builder is a good example of the Builder pattern.
 - In Symfony, the FormBuilder is a good example of the Builder pattern.
 
+
+![Builder](resources/uml.png)
+
 # Documentation
 
 In ExampleInitial I've used a Director class to build the object.
